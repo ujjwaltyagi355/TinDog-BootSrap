@@ -49,8 +49,8 @@ h1 {
 }
 
 /* Features */
-.feature-container{
-  text-align: center;
+#features{
+  padding: 7% 15%;
 }
 .feature-title{
   font-family:"Montserrat";
@@ -60,7 +60,14 @@ h1 {
   color: #8f8f8f;
 
 }
-.feature-icon{
-  height:10px;
-  width:10px;
+.feature-box{
+  text-align:center;
+  padding: 5%
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+   color: #ff4c68;
 }
