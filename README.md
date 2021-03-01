@@ -8,17 +8,21 @@
 
 ## Screen Shots:
 
-* Home Page for TinDog.
+* <strong>Home Page for TinDog.</strong>
+
+
 ![image](https://user-images.githubusercontent.com/61249902/109505321-7cbdf500-7ac2-11eb-9a03-395e6a2c828b.png)
 
 ---
 
-* Features offered at TinDog.
+* <strong>Features offered at TinDog.</strong>
+
+
 ![image](https://user-images.githubusercontent.com/61249902/109505541-b4c53800-7ac2-11eb-9d64-9a96bf80fd89.png)
 
 ---
  
-* This is a `Carousel` implemeted using `BootStrap` for presenting testimony of past customers.
+* <strong>This is a `Carousel` implemeted using `BootStrap` for presenting testimony of past customers.</strong>
 
 ![image](https://user-images.githubusercontent.com/61249902/109505684-dde5c880-7ac2-11eb-8160-653a0f150994.png)
 
@@ -26,21 +30,21 @@
 
 ---
 
-* This is Card Implementation of various plans at TinDog.
+* <strong>This is Card Implementation of various plans at TinDog.<strong>
 
 ![image](https://user-images.githubusercontent.com/61249902/109506582-ce1ab400-7ac3-11eb-9659-8200e2673b8a.png)
 
 ---
 
 
-* Links to download the App.
+* <strong>Links to download the App.<strong>
 
 ![image](https://user-images.githubusercontent.com/61249902/109506681-ec80af80-7ac3-11eb-9873-8c6513fca4da.png)
 
 ---
 
 
-* The Footer with all the Social Links.
+* <strong>The Footer with all the Social Links.<strong>
 
 ![image](https://user-images.githubusercontent.com/61249902/109507180-7597e680-7ac4-11eb-99d4-0e6fc05c12a1.png)
 
