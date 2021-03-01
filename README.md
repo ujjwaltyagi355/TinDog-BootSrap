@@ -1,6 +1,6 @@
 # TinDog-BootSrap
 TinDog is a Website made for `Dog Lovers`, who can't bear the sight of their loved dog feeling lonely.<br />
-TinDog is a Dating Site for all breeds of dogs, you just need to register with a plan and then let you Dog find their Soul mate.😜<br />
+TinDog is a Dating Site for all breeds of dogs, you just need to register with a plan and then let your Dog find their Soul mate.😜<br />
 
 ## Live Site
 <h4>You can play around with the project at:</h4>
